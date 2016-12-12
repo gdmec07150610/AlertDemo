@@ -44,12 +44,13 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case R.id.button5:
                         dialog5();
-                        break;case R.id.button6:
+                        break;
+                    case R.id.button6:
                         dialog6();
                         break;
-                    /*case R.id.button7:
+                    case R.id.button7:
                         dialog7();
-                        break;*/
+                        break;
 
 
                 }
